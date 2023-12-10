@@ -15,6 +15,7 @@ public class convertToCentimeters {
     }
 
     public static double converterToCm(int inch) {
+
         return inch * 2.54;
     }
 
