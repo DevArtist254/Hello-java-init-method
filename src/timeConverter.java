@@ -1,5 +1,5 @@
 public class timeConverter {
-    static int seconds = 351;
+    static int seconds = 3945;
     static int minutes = 0;
     static int hours = 0;
 
